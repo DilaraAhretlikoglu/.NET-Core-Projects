@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\bin\Debug\net7.0\UcgenCizme.exe
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\bin\Debug\net7.0\UcgenCizme.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\bin\Debug\net7.0\UcgenCizme.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\bin\Debug\net7.0\UcgenCizme.dll
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\bin\Debug\net7.0\UcgenCizme.pdb
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\UcgenCizme.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\UcgenCizme.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\UcgenCizme.dll
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\refint\UcgenCizme.dll
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\UcgenCizme.pdb
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\UcgenCizme.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\UcgenCizme\obj\Debug\net7.0\ref\UcgenCizme.dll
