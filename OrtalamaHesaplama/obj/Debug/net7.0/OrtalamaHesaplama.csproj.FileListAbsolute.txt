@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\bin\Debug\net7.0\OrtalamaHesaplama.exe
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\bin\Debug\net7.0\OrtalamaHesaplama.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\bin\Debug\net7.0\OrtalamaHesaplama.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\bin\Debug\net7.0\OrtalamaHesaplama.dll
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\bin\Debug\net7.0\OrtalamaHesaplama.pdb
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\OrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\OrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\OrtalamaHesaplama.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\OrtalamaHesaplama.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\OrtalamaHesaplama.dll
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\refint\OrtalamaHesaplama.dll
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\OrtalamaHesaplama.pdb
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\OrtalamaHesaplama.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\OrtalamaHesaplama\obj\Debug\net7.0\ref\OrtalamaHesaplama.dll
