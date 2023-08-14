@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\bin\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.exe
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\bin\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\bin\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\bin\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.dll
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\bin\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.pdb
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.dll
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\refint\ArdisikSessizHarfAlgoritmasi.dll
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.pdb
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ArdisikSessizHarfAlgoritmasi.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\ArdisikSessizHarfAlgoritmasi\obj\Debug\net7.0\ref\ArdisikSessizHarfAlgoritmasi.dll
