@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\bin\Debug\net7.0\SplitAlgoritması.exe
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\bin\Debug\net7.0\SplitAlgoritması.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\bin\Debug\net7.0\SplitAlgoritması.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\bin\Debug\net7.0\SplitAlgoritması.dll
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\bin\Debug\net7.0\SplitAlgoritması.pdb
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\SplitAlgoritması.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\SplitAlgoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\SplitAlgoritması.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\SplitAlgoritması.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\SplitAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\SplitAlgoritması.dll
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\refint\SplitAlgoritması.dll
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\SplitAlgoritması.pdb
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\SplitAlgoritması.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\SplitAlgoritması\obj\Debug\net7.0\ref\SplitAlgoritması.dll
