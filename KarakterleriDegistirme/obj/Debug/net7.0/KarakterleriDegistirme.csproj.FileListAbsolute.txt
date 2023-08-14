@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\bin\Debug\net7.0\KarakterleriDegistirme.exe
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\bin\Debug\net7.0\KarakterleriDegistirme.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\bin\Debug\net7.0\KarakterleriDegistirme.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\bin\Debug\net7.0\KarakterleriDegistirme.dll
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\bin\Debug\net7.0\KarakterleriDegistirme.pdb
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\KarakterleriDegistirme.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\KarakterleriDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\KarakterleriDegistirme.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\KarakterleriDegistirme.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\KarakterleriDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\KarakterleriDegistirme.dll
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\refint\KarakterleriDegistirme.dll
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\KarakterleriDegistirme.pdb
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\KarakterleriDegistirme.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriDegistirme\obj\Debug\net7.0\ref\KarakterleriDegistirme.dll
