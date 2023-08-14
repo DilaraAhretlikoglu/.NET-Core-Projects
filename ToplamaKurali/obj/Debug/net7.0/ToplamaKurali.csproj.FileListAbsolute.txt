@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\bin\Debug\net7.0\ToplamaKurali.exe
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\bin\Debug\net7.0\ToplamaKurali.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\bin\Debug\net7.0\ToplamaKurali.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\bin\Debug\net7.0\ToplamaKurali.dll
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\bin\Debug\net7.0\ToplamaKurali.pdb
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ToplamaKurali.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ToplamaKurali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ToplamaKurali.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ToplamaKurali.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ToplamaKurali.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ToplamaKurali.dll
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\refint\ToplamaKurali.dll
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ToplamaKurali.pdb
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ToplamaKurali.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\ToplamaKurali\obj\Debug\net7.0\ref\ToplamaKurali.dll
