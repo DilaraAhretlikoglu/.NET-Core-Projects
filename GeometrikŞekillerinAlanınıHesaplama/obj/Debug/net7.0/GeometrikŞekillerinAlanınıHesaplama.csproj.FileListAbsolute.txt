@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\bin\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.exe
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\bin\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\bin\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\bin\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.dll
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\bin\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.pdb
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.dll
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\refint\GeometrikŞekillerinAlanınıHesaplama.dll
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.pdb
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\GeometrikŞekillerinAlanınıHesaplama.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\GeometrikŞekillerinAlanınıHesaplama\obj\Debug\net7.0\ref\GeometrikŞekillerinAlanınıHesaplama.dll
