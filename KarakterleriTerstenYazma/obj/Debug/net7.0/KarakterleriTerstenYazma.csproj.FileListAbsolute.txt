@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\bin\Debug\net7.0\KarakterleriTerstenYazma.exe
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\bin\Debug\net7.0\KarakterleriTerstenYazma.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\bin\Debug\net7.0\KarakterleriTerstenYazma.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\bin\Debug\net7.0\KarakterleriTerstenYazma.dll
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\bin\Debug\net7.0\KarakterleriTerstenYazma.pdb
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\KarakterleriTerstenYazma.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\KarakterleriTerstenYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\KarakterleriTerstenYazma.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\KarakterleriTerstenYazma.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\KarakterleriTerstenYazma.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\KarakterleriTerstenYazma.dll
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\refint\KarakterleriTerstenYazma.dll
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\KarakterleriTerstenYazma.pdb
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\KarakterleriTerstenYazma.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\KarakterleriTerstenYazma\obj\Debug\net7.0\ref\KarakterleriTerstenYazma.dll
