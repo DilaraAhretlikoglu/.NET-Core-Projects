@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\bin\Debug\net7.0\VotingSystem.exe
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\bin\Debug\net7.0\VotingSystem.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\bin\Debug\net7.0\VotingSystem.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\bin\Debug\net7.0\VotingSystem.dll
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\bin\Debug\net7.0\VotingSystem.pdb
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\VotingSystem.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\VotingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\VotingSystem.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\VotingSystem.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\VotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\VotingSystem.dll
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\refint\VotingSystem.dll
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\VotingSystem.pdb
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\VotingSystem.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\VotingSystem\obj\Debug\net7.0\ref\VotingSystem.dll
